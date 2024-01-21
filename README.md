@@ -1,3 +1,6 @@
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alitaghvayi7&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alitaghvayi7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
