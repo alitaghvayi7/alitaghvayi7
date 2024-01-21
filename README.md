@@ -5,8 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alitaghvayi7&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alitaghvayi7&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alitaghvayi7&theme=dark&utcOffset=8) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alitaghvayi7&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alitaghvayi7&theme=dark)
+
 <!--
 **alitaghvayi7/alitaghvayi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
