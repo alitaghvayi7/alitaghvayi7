@@ -1,4 +1,4 @@
-My Skills
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,11 +51,11 @@ My Skills
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-My Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alitaghvayi7&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alitaghvayi7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Summary
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alitaghvayi7&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alitaghvayi7&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alitaghvayi7&theme=dark&utcOffset=8) 
